@@ -1,9 +1,9 @@
-# Repo
-<h1 align="left">Hey 👋 What's up?</h1>
+
+<h1 align="left">Hey there 👋 </h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Saksham Gupta, a third-year Electrical and Electronics Engineering Student at BITS Pilani, Pilani Campus.</p>
 
 ###
 
